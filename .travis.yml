@@ -2,12 +2,6 @@ language: ruby
 rvm:
   - 1.9.2
   - ruby-head
-env:
-  - "rack=1.3.6"
-  - "rack=master"
-matrix:
-  allow_failures:
-    - rvm: ruby-head
 notifications:
   recipients:
     - akirapanda@newnil.com
