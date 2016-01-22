@@ -8,8 +8,6 @@ env:
   - "rack=1.3.6"
   - "rack=1.4.1"
   - "rack=master"
-  - "tilt=1.3.3"
-  - "tilt=master"
 matrix:
   allow_failures:
     - rvm: ruby-head

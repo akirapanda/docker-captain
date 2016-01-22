@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 #For ChinaNet
 #source 'https://ruby.taobao.org/'
 
-
+gem 'rake'
 gem 'sinatra'
 gem 'docker-api'
 
